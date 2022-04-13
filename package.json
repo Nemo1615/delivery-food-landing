@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Homs",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.2.3",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "latest",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-less": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulp-watch": "latest",
+    "gulp-webp": "^4.0.1",
+    "gulp-webp-html": "^1.0.2",
+    "imagemin-jpeg-recompress": "^7.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "rimraf": "latest"
+  }
+}
